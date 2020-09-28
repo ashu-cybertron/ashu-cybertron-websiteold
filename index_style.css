@@ -4,23 +4,36 @@ body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
 }
-
+.wlcm-txt{
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+}
 .header {
   overflow: hidden;
   background-color: #045c63fa;
   padding: 20px 10px;
 }
-
-.header a {
-  float: left;
-  color: black;
-  text-align: center;
-  padding: 12px;
-  text-decoration: none;
-  font-size: 18px; 
-  line-height: 25px;
-  border-radius: 4px;
+.header img{
+    float: left;
+    width: 100px;
+    height: 100px;
 }
+.header h1 {
+    position: relative;
+    top: 18px;
+    left: 60px;
+    color: white;
+  }
+  .header a {
+    float: left;
+    color: rgb(233, 222, 222);
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 18px; 
+    line-height: 25px;
+    border-radius: 4px;
+  }
 
 .header a.logo {
   font-size: 25px;
@@ -34,7 +47,7 @@ body {
 
 .header a.active {
   background-color: dodgerblue;
-  color: white;
+  color: rgb(199, 184, 184);
 }
 
 .header-right {
@@ -47,8 +60,12 @@ body {
     display: block;
     text-align: left;
   }
-  
+  .central{
+    margin-left: auto;
+    margin-right: auto;
+    width: 8em
+  }
   .header-right {
-    float: none;
+    float: right;
   }
 }
