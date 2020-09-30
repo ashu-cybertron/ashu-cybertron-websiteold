@@ -1,7 +1,7 @@
 * {box-sizing: border-box;}
 
 body { 
-  background-color: #acf9ff;
+  background-color: #ffffff;
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
 }
@@ -82,7 +82,7 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background-color: #afebfd;
+  background-color: #b9efff;
   font-family: 'Baloo Paaji 2', cursive;
 }
 
