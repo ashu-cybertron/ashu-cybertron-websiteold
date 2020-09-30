@@ -2,9 +2,7 @@
     box-sizing: border-box;
   }
   
-  body {
-    font-family: Arial, Helvetica,'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, sans-serif;
-  }
+
   
   /* Float four columns side by side */
   .column {
