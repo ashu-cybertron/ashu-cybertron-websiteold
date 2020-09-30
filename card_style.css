@@ -54,3 +54,10 @@
     text-align: right;
     background-color: #d4eb6d;
   }
+  .bigcard-img-container{
+    padding-top: 20;
+    justify-content: center;
+    align-items: center;
+  }
+
+ 
