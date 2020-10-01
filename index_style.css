@@ -77,12 +77,23 @@ body {
 .container {
   display: grid;
   grid-template-columns: 255px 255px 255px 255px 255px;
-  grid-gap: 15px;
-  padding-top: 20;
+  grid-gap: 10px;
+  padding-top: 10;
   justify-content: center;
   align-items: center;
-  height: 100vh;
-  background-color: #f8fdff;
+  height: 80vh;
+  background-color: #b9e6f8;
+  font-family: 'Baloo Paaji 2', cursive;
+}
+
+.container2 {
+  display: grid;
+  grid-template-columns: 660px 660px ;
+  grid-gap: 2px;
+  padding-top: 10px;
+  justify-content: left;
+  align-items: center;
+  height: 40vh;  background-color: #41575f;
   font-family: 'Baloo Paaji 2', cursive;
 }
 
