@@ -168,13 +168,13 @@ body {
 }
 
 .draw-border:hover::before {
-  -webkit-transition-delay: 0s, 0s, 0.25s;
-  transition-delay: 0s, 0s, 0.25s;
+  -webkit-transition-delay: 0s, 0s, 0.5s;
+  transition-delay: 0s, 0s, 0.5s;
 }
 
 .draw-border:hover::after {
-  -webkit-transition-delay: 0s, 0.25s, 0s;
-  transition-delay: 0s, 0.25s, 0s;
+  -webkit-transition-delay: 0s, 0.5s, 0s;
+  transition-delay: 0s, 0.5s, 0s;
 }
 
 .btn {
