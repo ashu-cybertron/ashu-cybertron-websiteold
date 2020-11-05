@@ -88,7 +88,7 @@ body {
 
 .container2 {
   display: grid;
-  grid-template-columns: 660px 660px ;
+  grid-template-columns: 100px 660px ;
   grid-gap: 2px;
   padding-top: 10px;
   justify-content: left;
