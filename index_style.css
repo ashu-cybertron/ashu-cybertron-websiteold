@@ -76,13 +76,13 @@ body {
 
 .container {
   display: grid;
-  grid-template-columns: 30%  30% 30% 30%;
+  grid-template-columns: 30%  30% 30%;
   grid-gap: 20px;
   padding-top: 20;
   justify-content: center;
   align-items: center;
   height: 30vh;
-  background-color: #07232e;
+  background-color: #0aaff0;
   font-family: 'Baloo Paaji 2', cursive;
 }
 
